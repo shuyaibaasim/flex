@@ -1,0 +1,26 @@
+body {
+    height: 100%;
+    margin: 0px;
+}
+.Header {
+display: flex;
+justify-content: space-between;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+}
+.content{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
